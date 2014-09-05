@@ -12,6 +12,6 @@ $(function() {
         animationInSpeed: 200, 
         animationOutSpeed: 200, 
         scrollText: '<span class="glyphicon glyphicon-chevron-up"></span>',
-        activeOverlay: false
+        activeOverlay: false,
     });
 });
