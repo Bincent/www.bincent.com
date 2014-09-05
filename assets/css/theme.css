@@ -1,0 +1,20 @@
+body {
+    padding-top: 70px;
+}
+.navbar > .container .navbar-header .navbar-brand {
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+.collapse .nav-pills {
+    padding-bottom: 5px;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 5px;
+}
+.backToTop {
+    bottom: 100px;
+    cursor: pointer;
+    display: none;
+    position: fixed;
+    right: 0;
+}
