@@ -25,3 +25,7 @@ body {
           transition:background 200ms linear}
 #scrollUp:hover{background:#000}
 #scrollUp .glyphicon{margin:10px;font-size:24px}
+#voice_box dl{margin:10px 0}
+#voice_box dl dt{width: 80px;float:left;position: absolute;}
+#voice_box dl dd{float:left;margin-left: 90px}
+h4 span{color:#d84545;} 
